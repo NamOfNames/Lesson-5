@@ -1,0 +1,21 @@
+:root {
+  --white--: white;
+  --black--: black;
+  --gray_100: #111111;
+  --gray_200: #222222;
+  --gray_300: #333333;
+  --gray_400: #444444;
+}
+
+:root {
+  --Space_10: 10%;
+  --Space_20: 20%;
+  --Space_30: 30%;
+  --Space_40: 40%;
+  --Space_50: 50%;
+  --Space_60: 60%;
+  --Space_70: 70%;
+  --Space_80: 80%;
+  --Space_90: 90%;
+  --Space_Full: 100%;
+}
